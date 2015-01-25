@@ -1,0 +1,12 @@
+exit
+compile
+run 100 full gossip
+compile
+run 100 full gossip
+compilee
+compile
+run 100 line gossip
+run 100 line gossip >> out.txt
+compile
+sbt
+run 100 full push-sum
